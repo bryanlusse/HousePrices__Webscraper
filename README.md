@@ -21,7 +21,6 @@
 - [How to use](#chart_with_upwards_trend-model)
 - [Requirements](#exclamation-requirements)
 - [Folder Structure](#closedbook-results)
-- [Results](#open_file_folder-folder-structure)
 - [Author](#smiley_cat-author)
 
 ## :scroll: Overview
