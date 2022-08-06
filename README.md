@@ -58,8 +58,7 @@ $ jupyter notebook
 
 ## :exclamation: Requirements
 
-Found in [requirements.txt](https://github.com/bryanlusse/HousePrices__Webscraper/blob/master/web_scraper/requirements.txt).
-
+Found in [requirements.txt](https://github.com/bryanlusse/HousePrices__Webscraper/blob/master/requirements.txt).
 
 ## :open_file_folder: Folder Structure
 
