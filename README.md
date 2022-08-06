@@ -1,4 +1,6 @@
 <div align="center">
+<img src="assets/logo.jpg" alt="drawing" width="400"/> <br />
+
 
 # Dataset construction of Dutch House Prices
 
