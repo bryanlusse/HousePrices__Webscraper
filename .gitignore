@@ -162,3 +162,4 @@ cython_debug/
 
 # Misc
 house_data*
+.DS_Store
